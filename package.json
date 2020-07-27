@@ -1,5 +1,5 @@
 {
-  "name": "ajith-packages",
+  "name": "chunk-array-ap",
   "version": "1.0.0",
   "description": "Ajith Packages",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ajithvikram/ajith-packages/issues"
   },
-  "homepage": "https://github.com/Ajithvikram/ajith-packages#readme"
+  "homepage": "https://github.com/Ajithvikram/ajith-packages#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ajithvikram"
+  }
 }
