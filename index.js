@@ -1,4 +1,4 @@
-module.exports = (array, size) => {
+const chunkArray = (array, size) => {
     const newArray = [];
     const arraySize = Math.round(array.length / size);
     while (array.length) {
@@ -7,3 +7,5 @@ module.exports = (array, size) => {
     }
     return newArray;
 }
+
+module.exports = { chunkArray }
