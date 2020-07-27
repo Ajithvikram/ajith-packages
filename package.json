@@ -1,0 +1,23 @@
+{
+  "name": "ajith-packages",
+  "version": "1.0.0",
+  "description": "Ajith Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajithvikram/ajith-packages.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Ajith Vikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ajithvikram/ajith-packages/issues"
+  },
+  "homepage": "https://github.com/Ajithvikram/ajith-packages#readme"
+}
